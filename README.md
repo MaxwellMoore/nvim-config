@@ -1,4 +1,6 @@
-# 💤 LazyVim
+### NeoVim Config:
+> #### Includes:
+>   - "jk" & "kj" keymaps to exit insert mode.
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+### ToDo:
+>   - Add "LazyGit" plugin.
